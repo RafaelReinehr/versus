@@ -11,11 +11,11 @@ To permit humankind to accelerate appropriated decision making based on scientif
 2. The platform opens as many options of comparison as the options input by user.
 3. Below each option, unfold 4 boxes:
 - Pros: where all evidences in favor of that kind of oil as being better to health should be written; each evidence is a different topic, that can be CONFIRMED, QUESTIONED or REJECTED.
-- Gray: área cinza, onde são colocadas evidências duvidosas ou preliminares sobre o assunto. Por exemplo, aquelas que advém de relatos de caso, que não apresentam confirmação científica ou informação na qual existe debate, não existe consenso
-- Cons: para colocar as evidências contrárias ao benefício de tal ou qual óleo à saúde; novamente, cada tópico é uma evidência, que pode ser confirmada, questionada ou refutada
-- Trash: é o lixo, onde são colocadas as evidências que foram refutadas por mais de 80% dos usuários do sistema
+- Gray: gray area, where doubtful or preliminary evidences about the subject should be written. For example, those that came from anedoctal case stories, that do not have scientific comprobation or coming from information about debate and lack of consensus still exists.
+- Cons: to write down all evidences contrary to the benefit of that oil to health, at any extent; again, each topic is an evidence, that can be CONFIRMED, QUESTIONED or REJECTED.
+- Trash: is the trash, where evidence that was REJECTED for more then 80% os the system users (above a minimum quota) is moved to.
 
-## Como funciona o sistema de Confirmação, Questionamento ou Refutação?
+## How works the sistem of CONFIRMATION, QUESTIONING or REJECTION?
 
 1. Ao lado de cada evidência (tópico) existem 3 pequenos "boxes"
 2. No primeiro deles, você CONFIRMA/CONCORDA com a informação dada naquela sentença, afirmando que ela é VERDADEIRA
