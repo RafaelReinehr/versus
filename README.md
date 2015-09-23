@@ -17,10 +17,10 @@ To permit humankind to accelerate appropriated decision making based on scientif
 
 ## How works the sistem of CONFIRMATION, QUESTIONING or REJECTION?
 
-1. Ao lado de cada evidência (tópico) existem 3 pequenos "boxes"
-2. No primeiro deles, você CONFIRMA/CONCORDA com a informação dada naquela sentença, afirmando que ela é VERDADEIRA
-3. No segundo deles, você REFUTA/DISCORDA da informação contida naquela sentença, afirmando que ela é FALSA
-4. No quarto deles, você QUESTIONA o AUTOR e o PÚBLICO que está acompanhando a QUESTÃO DADA. Ao clicar neste botão, abre uma janela popup semitransparente na qual você pode fazer uma pergunta para esclarecer melhor, solicitar mais detalhes ou referências científicas, bibliográficas ou fontes sobre aquela asserção. A pergunta pode ser respondida por qualquer pessoa, não somente pelo autor. Funciona como um pequeno fórum/debate sobre o referido tópico. [aqui  pode colocar tag
+1. At the side of each evidence (topic) there are 3 little "boxes"
+2. In the first one, you can CONFIRM/AGREE with the information that is given in that sentence, confirming that it is TRUE
+3. In the second one, you REJECT/DISAGREE of the information given in that sentence, saying that it is FALSE
+4. In the third one you can  QUESTION the AUTHOR or the PUBLIC that is following the respective question. Clicking in this little boxe, a semitransparent popup window opens and there you can make a question to clarify any doubt you have about the assertion, ask for more details or scientific references, bibliographies or fonts about that specific assertion. The question can be answered by any person, not only by the author. It works like a little forum/debate about the respective topic
 
 ## Colors
 
