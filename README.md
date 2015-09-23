@@ -7,10 +7,10 @@ To permit humankind to accelerate appropriated decision making based on scientif
 
 ## Under the hood | How it works
 
-1. Um usuário elege uma pergunta. Ex. O que é melhor para a saúde: óleo de côco, óleo de canola, óleo de girassol, óleo de gergelim, óleo de soja, óleo de oliva, banha ou manteiga.
-2. A plataforma abre tantas opções de comparação quantas forem "inputadas" pelo usuário.
-3. Abaixo de cada opção, abrem 4 quadros:
-- Pros: para serem colocadas todas as evidências a favor daquele tipo de óleo como sendo o melhor para a saúde; cada evidência é um tópico diferente, que pode ser confirmado, questionado ou refutado
+1. A user writes a question. Ex: What is better to health: coconut oil, canole oil, flaxseed oil, sesame oil, soy oil, olive oil, pork grease or butter.
+2. The platform opens as many options of comparison as the options input by user.
+3. Below each option, unfold 4 boxes:
+- Pros: where all evidences in favor of that kind of oil as being better to health should be written; each evidence is a different topic, that can be CONFIRMED, QUESTIONED or REJECTED.
 - Gray: área cinza, onde são colocadas evidências duvidosas ou preliminares sobre o assunto. Por exemplo, aquelas que advém de relatos de caso, que não apresentam confirmação científica ou informação na qual existe debate, não existe consenso
 - Cons: para colocar as evidências contrárias ao benefício de tal ou qual óleo à saúde; novamente, cada tópico é uma evidência, que pode ser confirmada, questionada ou refutada
 - Trash: é o lixo, onde são colocadas as evidências que foram refutadas por mais de 80% dos usuários do sistema
