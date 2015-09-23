@@ -1,5 +1,5 @@
 # versus
-An application designed to improve human knowledge and the hability of humans to take adequate and meaninful decisions.
+An application designed to improve human knowledge and the hability of humans to take adequate and meaningful decisions.
 
 ## What's the promise
 
