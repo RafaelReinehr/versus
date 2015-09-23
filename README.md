@@ -24,17 +24,17 @@ To permit humankind to accelerate appropriated decision making based on scientif
 
 ## Colors
 
-In PRO, Ideas show up in BRIGHT GREEN. Whetn they start to ge between 50-79% rejection, they change to GRAY. The same happens in CONS. This helps to alert readers that information are being questioned by significant number of people.
+In PRO, Ideas show up in BRIGHT GREEN. Whetn they start to ge between 50-79% rejection, they change to GRAY. The same happens in CONS (that are BRIGHT RED). This helps to alert readers that information are being questioned by significant number of people.
 
 Other one: when user "HOVERS" over the BOXES CONFIRM or REJECT, it shows up the number of people that confirmed or rejected that topic/evidence (or, instead, this numbers could show up nearby the box)
 
 ## Extras | Other ideas
 
-1. Ao lado direito de todas as possibilidades de resposta, existe um grande sinal de "+". Se estiver vermelho, é porque o autor fechou a possibilidade de outros usuários criarem outras possibilidades de respostas à questão. Se estiver verde, é porque o autor deixou aberta esta possibilidade.
-2. Se estiver vermelho, clicar nele fará com que o usuário que desejar incluir uma nova opção de resposta inclua esta opção e a mesma será previamente moderada pelo criador da PERGUNTA ORIGINAL. Os dois campos a abrir seriam 
-- Resposta sugerida
-- Justificativa para adicionar esta resposta às já existentes
-3. Se estiver verde, o usuário já poderá incluir a nova opção de resposta bem como os Pros, Contras, ou Tópicos Cinza.
+1. At the extreme right side of the question, almost at the top of page, there will be a big "+" (plus) sign. If it is red, it means that author closed the possibility to other users to create alternative answer options to the question. If it is green, it is open to users add another options.
+2. If it is red, clicking on the plus sign makes that the option a user wants to see included be moderated by the original author of the question before it shows up as a valid option. The two fields that would open to be filled would be:
+- Suggested answered
+- Justificative to add this answer to the existent ones
+3. If it is green, user can include the new option as well its Pros, Cons or Gray Areas
 
 ## Option to evaluate
 
