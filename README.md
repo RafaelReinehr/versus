@@ -24,10 +24,9 @@ To permit humankind to accelerate appropriated decision making based on scientif
 
 ## Colors
 
-Em PRO, as Ideias aparecem em verde. Quando começam a ter entre 50 e 79% de refutação, elas mudam para cinza. O mesmo acontece em CONS. Isso serve para alertar o leitor que aquela informação está sendo questionada
+In PRO, Ideas show up in BRIGHT GREEN. Whetn they start to ge between 50-79% rejection, they change to GRAY. The same happens in CONS. This helps to alert readers that information are being questioned by significant number of people.
 
-Outra: quando o usuário fizer um "HOVER" sobre os BOXES de CONFIRMAR OU REFUTAR, aparece o número de pessoas que
-confirmaram ou refutaram aquele tópico/evidência
+Other one: when user "HOVERS" over the BOXES CONFIRM or REJECT, it shows up the number of people that confirmed or rejected that topic/evidence (or, instead, this numbers could show up nearby the box)
 
 ## Extras | Other ideas
 
@@ -39,7 +38,7 @@ confirmaram ou refutaram aquele tópico/evidência
 
 ## Option to evaluate
 
-- Além da possibilidade de um fórum específico para cada tópico, que se abre quando um usuário clica em "Questionar", seria interessante ter na lateral direita extrema um fórum geral, para discutir sobre a questão tratada, de uma forma mais ampla e abrangente.
+- Beyond the possibility of a specific forum to each topic, that opens up when a user clicks on "Questioning", it would be interesting that we have, in the extreme right of the page a general forum, to discuss about the question that is being presented, in a more broad way.
 
 ## Contact
 
@@ -47,4 +46,4 @@ confirmaram ou refutaram aquele tópico/evidência
 
 ## Licence
 
-versus is released under the GNU GPL v3.0 and Move Commons Non-Profit, Reproducible, Reinforcing Other Aims, Grassroots licenses.
+<b>versus</b> is released under the GNU GPL v3.0 and Move Commons Non-Profit, Reproducible, Reinforcing Other Aims, Grassroots licenses.
